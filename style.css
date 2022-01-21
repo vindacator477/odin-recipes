@@ -1,0 +1,28 @@
+h1{ 
+    color: rgb(3, 109, 12);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    color: rgb(3, 109, 12);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    font-size: large;
+}
+
+ul{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol{ 
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
